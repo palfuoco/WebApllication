@@ -1,0 +1,59 @@
+.nav-link{
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+
+.btn-outline-primary{
+    color: darkgoldenrod;
+    border-color: darkgoldenrod;
+}
+.btn-outline-primary:hover{
+    border-color: darkgoldenrod;
+    background: black;
+}
+
+.badge.bg-primary{
+    background-color: darkgoldenrod !important;
+}
+
+.alert-info{
+    background-color: darkgoldenrod;
+    border-color: black;
+    color: black;
+}
+
+.btn-primary{
+    background-color: darkgoldenrod;
+    color: black;
+    border-color: black;
+}
+.btn-primary:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+.btn-secondary{
+    border-color: black;
+    color: black;
+}
+.btn-secondary:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+.accordion-button{
+    background-color: darkgoldenrod !important;
+    border-color: black !important;
+    color: black !important;
+}
+
+footer{
+    color: darkgoldenrod;
+}
