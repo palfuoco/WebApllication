@@ -24,7 +24,7 @@ function addNewRowV1(tableBody , match, anno, goals){
     const newRowHTML = `
         <tr>
             <td>${match}</td>
-            <td>${anno}</td>
+            <td><span class="badge bg-primary">${anno}</span></td>
             <td>${goals}</td>
             <td><button class="btn btn-danger btn-sm deleteButton"><i class="fa-solid fa-trash"></i></button></td>
         </tr>
