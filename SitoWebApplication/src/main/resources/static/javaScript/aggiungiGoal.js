@@ -25,7 +25,7 @@ function addNewRowV1(tableBody , match, anno, goals){
         <tr>
             <td>${match}</td>
             <td><span class="badge bg-primary">${anno}</span></td>
-            <td>${goals}</td>
+            <td>${goals} goal</td>
             <td><button class="btn btn-danger btn-sm deleteButton"><i class="fa-solid fa-trash"></i></button></td>
         </tr>
     `;
